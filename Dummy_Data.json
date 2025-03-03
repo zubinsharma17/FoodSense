@@ -1,0 +1,224 @@
+{
+    "Sheet1": [
+        {
+            "Item ID": 101,
+            "Name": "Tomatoes",
+            "Category": "Vegetables",
+            "Quantity": 50,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-28",
+            "Supplier": "Fresh Farms Ltd",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 102,
+            "Name": "Chicken Breast",
+            "Category": "Meat",
+            "Quantity": 30,
+            "InShelf": "Yes",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-27",
+            "Supplier": "Prime Meats Co.",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 103,
+            "Name": "Olive Oil",
+            "Category": "Cooking Oil",
+            "Quantity": 20,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-25",
+            "Supplier": "Healthy Oils Inc.",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 104,
+            "Name": "Cheddar Cheese",
+            "Category": "Dairy",
+            "Quantity": 15,
+            "InShelf": "No",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-22",
+            "Supplier": "DairyBest Ltd",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 105,
+            "Name": "Brown Rice",
+            "Category": "Grains",
+            "Quantity": 40,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-26",
+            "Supplier": "Organic Farms",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 106,
+            "Name": "Apples",
+            "Category": "Fruits",
+            "Quantity": 25,
+            "InShelf": "No",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-20",
+            "Supplier": "Nature's Best",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 107,
+            "Name": "Salmon",
+            "Category": "Seafood",
+            "Quantity": 18,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-23",
+            "Supplier": "Ocean Harvest",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 108,
+            "Name": "Sunflower Oil",
+            "Category": "Cooking Oil",
+            "Quantity": 12,
+            "InShelf": "Yes",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-19",
+            "Supplier": "Golden Oils Ltd",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 109,
+            "Name": "Milk",
+            "Category": "Dairy",
+            "Quantity": 40,
+            "InShelf": "No",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-24",
+            "Supplier": "Happy Dairy",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 110,
+            "Name": "Whole Wheat Bread",
+            "Category": "Bakery",
+            "Quantity": 22,
+            "InShelf": "Yes",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-21",
+            "Supplier": "Baker's Delight",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 111,
+            "Name": "Carrots",
+            "Category": "Vegetables",
+            "Quantity": 35,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-18",
+            "Supplier": "Green Growers",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 112,
+            "Name": "Beef Steak",
+            "Category": "Meat",
+            "Quantity": 28,
+            "InShelf": "No",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-17",
+            "Supplier": "Top Cuts Butchery",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 113,
+            "Name": "Coconut Oil",
+            "Category": "Cooking Oil",
+            "Quantity": 10,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-16",
+            "Supplier": "Tropical Oils",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 114,
+            "Name": "Yogurt",
+            "Category": "Dairy",
+            "Quantity": 32,
+            "InShelf": "No",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-15",
+            "Supplier": "Creamy Dairy",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 115,
+            "Name": "White Sugar",
+            "Category": "Condiments",
+            "Quantity": 50,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-14",
+            "Supplier": "Sweet Supplies",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 116,
+            "Name": "Potatoes",
+            "Category": "Vegetables",
+            "Quantity": 45,
+            "InShelf": "No",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-13",
+            "Supplier": "Farm Fresh",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 117,
+            "Name": "Pork Chops",
+            "Category": "Meat",
+            "Quantity": 20,
+            "InShelf": "Yes",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-12",
+            "Supplier": "Butcher's Choice",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 118,
+            "Name": "Sesame Oil",
+            "Category": "Cooking Oil",
+            "Quantity": 8,
+            "InShelf": "Yes",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-11",
+            "Supplier": "Pure Oils Co.",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 119,
+            "Name": "Butter",
+            "Category": "Dairy",
+            "Quantity": 17,
+            "InShelf": "No",
+            "AutoOrder": "No",
+            "PurchaseDate": "2025-02-10",
+            "Supplier": "Golden Butter",
+            "Units": "kg"
+        },
+        {
+            "Item ID": 120,
+            "Name": "Pasta",
+            "Category": "Grains",
+            "Quantity": 60,
+            "InShelf": "Yes",
+            "AutoOrder": "Yes",
+            "PurchaseDate": "2025-02-09",
+            "Supplier": "Pasta World",
+            "Units": "kg"
+        }
+    ]
+}
